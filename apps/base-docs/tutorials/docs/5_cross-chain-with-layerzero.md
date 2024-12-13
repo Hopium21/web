@@ -81,7 +81,7 @@ The [Security Stack](https://docs.layerzero.network/explore/decentralized-verifi
 
 #### Executors
 
-[Executors](https://docs.layerzero.network/explore/executors) are responsible for initiating message delivery. They will automatically execute the `lzReceive` function of the endpoint on the destination chain once a message has been verified by the Security Stack.
+[Executors](https://docs.layerzero.network/v2/home/permissionless-execution/executors) are responsible for initiating message delivery. They will automatically execute the `lzReceive` function of the endpoint on the destination chain once a message has been verified by the Security Stack.
 
 ---
 
